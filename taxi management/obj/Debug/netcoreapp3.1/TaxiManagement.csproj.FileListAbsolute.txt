@@ -1,0 +1,14 @@
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagement.exe
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagement.deps.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagement.runtimeconfig.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagement.runtimeconfig.dev.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagement.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagement.pdb
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagement.csproj.AssemblyReference.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagement.AssemblyInfoInputs.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagement.AssemblyInfo.cs
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagement.csproj.CoreCompileInputs.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagement.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagement.pdb
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagement.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.exe
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.deps.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.runtimeconfig.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.runtimeconfig.dev.json
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\bin\Debug\netcoreapp3.1\TaxiManagementAssignment.pdb
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.csproj.AssemblyReference.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.AssemblyInfoInputs.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.AssemblyInfo.cs
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.dll
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.pdb
+C:\Users\fraser.h\source\repos\TaxiManagementAssignment\TaxiManagementAssignment\obj\Debug\netcoreapp3.1\TaxiManagementAssignment.genruntimeconfig.cache
